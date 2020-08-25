@@ -1,1 +1,9 @@
+#BHENDON WESLEY BATISTA DUTRA
+#1904032 
+
+#BRUNO SILVA FRANCO
+#1903842
+
+# devops-aula05
+
 # devops-aula05
