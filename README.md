@@ -5,5 +5,3 @@
 #1903842
 
 # devops-aula05
-
-# devops-aula05
