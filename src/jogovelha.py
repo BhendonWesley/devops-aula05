@@ -13,6 +13,7 @@ def main( ):
 
 if __name__ == "__main__":
 	main()
+<<<<<<< HEAD
 o conteudo do arquivo testes.py é 
 import jogovelha
 import sys
@@ -34,3 +35,5 @@ if erroInicializar:
 	sys.exit(1)
 else:
 	sys.exit(0) 
+=======
+>>>>>>> b62f11c8e45e5452e25230b9b0efc0991fcd043a
